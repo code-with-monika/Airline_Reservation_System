@@ -40,3 +40,5 @@ View and manage customer and booking details.
 Monitor seat availability and booking statistics.
 
 Automatically trigger updates in seat count after booking or cancellation using SQL triggers.
+
+##Database Link: http://localhost/phpmyadmin/index.php?route=/database/structure&db=airlinereservation
